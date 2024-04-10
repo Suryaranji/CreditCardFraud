@@ -1,6 +1,5 @@
-pickle
-numpy
-pandas
-streamlit
-scikit-learn
+pickle==4.0
+pandas==1.5.3
+streamlit==1.21.0
+sklearn==1.2.2
 
