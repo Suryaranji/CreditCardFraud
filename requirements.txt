@@ -1,4 +1,4 @@
-pickle==0.0.12
+pickle
 pandas==1.5.3
 streamlit==1.21.0
 sklearn==1.2.2
