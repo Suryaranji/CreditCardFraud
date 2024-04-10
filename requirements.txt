@@ -1,7 +1,5 @@
 streamlit
 scikit-learn
-pickle
-bz2
 pandas
 
 
